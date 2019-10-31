@@ -1,10 +1,12 @@
 body{
     text-align: center;
 }
-lego-1{
-    background-image:url(h_img.jpg);
+#lego-1{
+    background-image:url("https://bit.ly/2C1a9Ww");
     background-attachment: fixed;
     background-size: cover;
-    color: #fff;
-    height: ;
+    height: 100vh;
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
 }
