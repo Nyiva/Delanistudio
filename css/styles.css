@@ -25,7 +25,7 @@ body{
  color: white;
 }
 #lego-3 {
-background-image: url(https://bit.ly/332TX3b);
+background-image: url("../images/assets/backgrounds/s_image.jpg");
 height: 30vh;
 color: white;
 justify-content: center;
