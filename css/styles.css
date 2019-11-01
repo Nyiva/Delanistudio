@@ -35,4 +35,10 @@ text-align: center;
     margin-top: 5%;
     
 }
- 
+ #lego-6{
+     background-size: cover;
+     background-image: url("../images/assets/backgrounds/c_image.jpg");
+     height: 60vh;
+     text-align: center;
+     justify-content: center;
+ }
