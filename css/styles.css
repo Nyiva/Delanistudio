@@ -11,7 +11,19 @@ body{
     text-align: center;
 }
 #lego-2{
-    color: rgb(185, 223, 238);
     justify-content: center;
     text-align: center;
+    text-decoration-color: white;
+
+}
+#lego-2 h1 p{
+ color: white;
+}
+#lego-3 {
+background-image: url(https://bit.ly/332TX3b);
+height: 50vh;
+color: aliceblue;
+justify-content: center;
+text-align: center;
+
 }
