@@ -1,0 +1,36 @@
+$(document).ready(function() {
+  $('#lego-4-1').click(function(){
+    $('#lego-4-2').show();
+  });
+  $('#lego-4-1').click(function(){
+    $('#lego-4-2').hide();
+  });
+  $('#lego-4-1').click(function(){
+    $('#lego-4-3').hide();
+  });
+  $('#lego-4-1').click(function(){
+    $('#lego-4-3').show();
+  });
+  $('#lego-4-1').click(function(){
+    $('#lego-4-3').hide();
+  });
+  $('#lego-4-1').click(function(){
+    $('#lego-4-4').show();
+  });
+  $('#lego-4-1').click(function(){
+    $('#lego-4-4').hide();
+  });
+  $('#lego-4-3').click(function(){
+    $('#toggle').show();
+  });
+  $('#lego-4-3').click(function(){
+    $('#lego-4-3').hide();
+  });
+  $('#lego-4-4').click(function(){
+    $('#toggle').show();
+  });
+  $('#lego-4-4').click(function(){
+    $('#lego-4-4').hide();
+  });
+
+});
