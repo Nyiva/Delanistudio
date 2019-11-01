@@ -1,3 +1,4 @@
+
 body{
     text-align: center;
 }
@@ -21,8 +22,8 @@ body{
 }
 #lego-3 {
 background-image: url(https://bit.ly/332TX3b);
-height: 50vh;
-color: aliceblue;
+height: 30vh;
+color: white;
 justify-content: center;
 text-align: center;
 
