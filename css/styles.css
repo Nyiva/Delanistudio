@@ -12,13 +12,15 @@ body{
     justify-content: center;
     text-align: center;
     padding-top: 15%;
-    margin-top: 15%;
+    margin-top: 5%;
     margin-bottom: 5%;
 }
 #lego-2{
     justify-content: center;
     text-align: center;
     text-decoration-color: white;
+    margin-top: 15%;
+    margin-bottom: 15%;
 
 }
 #lego-2 h1 p{
@@ -30,18 +32,23 @@ height: 30vh;
 color: white;
 justify-content: center;
 text-align: center;
+margin-bottom: 15%;
 
 }
 #lego-5 img{
     height: px;
     width: px;
     margin-top: 5%;
+    margin-left: ;
+    padding-top: 0ch;
+    
     
 }
  #lego-6{
      background-size: cover;
      background-image: url("../images/assets/backgrounds/c_image.jpg");
      height: 90vh;
+    margin-top: 5%;
      text-align: center;
      justify-content: center;
  }
@@ -68,3 +75,14 @@ text-align: center;
  .text-wrapper {
 
  }
+#lego-8{
+    margin-top: 5%;
+}
+#lego-9{
+    margin-top: 5%;
+}
+#portfolio{
+    margin-bottom: ;
+    margin-top: 5%;
+    
+}
