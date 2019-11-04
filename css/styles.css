@@ -47,7 +47,7 @@ margin-bottom: 15%;
  #lego-6{
      background-size: cover;
      background-image: url("../images/assets/backgrounds/c_image.jpg");
-     height: 90vh;
+     height: 150vh;
     margin-top: 5%;
      text-align: center;
      justify-content: center;
@@ -91,5 +91,41 @@ margin-bottom: 15%;
     margin-left: 15%;
     background-color:transparent;
     border-color: white;;
-    te
+    
+}
+#name {
+    border-color: white;
+    
+}
+#email{
+    border-color: white;
+}
+#name :placeholder-shown{
+ color: white;   
+}
+#email :placeholder-shown{
+    color: #000;
+
+}
+#lego{
+margin-top: 8%;
+}
+#submit{
+
+}
+#name{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 50%;
+
+}
+#email{
+    margin-right:20%;
+    margin-left: 80%;
+    margin-top: ;
+    margin-bottom: 20%;
+}
+#message{
+    margin-left: 5%;
+    margin-bottom: 10%;
 }
