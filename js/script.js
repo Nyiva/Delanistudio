@@ -36,10 +36,12 @@ $(document).ready(function() {
   $('#lego-4-6').click(function(){
     $('#lego-4-5').hide();
   });
+  $('#lego-4-5').click(function(){
+    $('#lego-4-5').show();
+  });
   $('#lego-4-6').click(function(){
     $('#lego-4-5').show();
   });
-
 });
 
  
@@ -52,9 +54,13 @@ $(document).ready(function() {
 
 function functiongmail(){
 var name = document.getElementById("name").value;
-var name = document.getElementById("email").value;
-var name = document.getElementById("message").value;
+var Email = document.getElementById("email").value;
+var Message = document.getElementById("message").value;
 
-
+if (name == '' || Email == '' || Message == '' ){
+  alert('Please make sure you have filled in correctly ');
+} else {
+  alert ('Hi'+ name + 'we have received your mesage. Thank you for reacting out to us.');
+}
 
 }
