@@ -1,13 +1,14 @@
 # Delani Studio site
 ## Ian charawe
 ## Description
+delani studio project is a design website that aims in implementing design format and functions from javascript
 ## Deployment
-
+https://github.com/Nyiva/Delanistudio
 ## Technology used
 HTML
 CSS
-Bootstrap
-Jquery
+Bootstrap 4.3.1
+Jquery 3.4.1
 Javascript
 ## BDD
 <img src="images/delani.jpg" alt="picture">
